@@ -6,5 +6,6 @@ dist
 examples
 packages
 
-pages/halo-infinite
+pages/halo-infinite/economy
+pages/halo-infinite/game cms
 pages/halo-mcc
